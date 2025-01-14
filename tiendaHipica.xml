@@ -1,0 +1,70 @@
+<productos>
+	<producto>
+		<id>
+			001
+		</id>
+		<nombre>
+			Silla salto Lexhis Fluvia
+		</nombre>
+		<categorias>
+			Sillas de montar
+		</categorias>
+		<precio moneda="EUR">
+			290
+		</precio>
+		<descripcion>
+			Silla inglesa de SALTO Lexhis Fulvia fabricada en cuero sintetico, muy ligera de 5.2kg de peso, con releenos en baste, asiento y rodilleras extremadamente confortable, y armadura muy ligera y gran capacidad de resistencia.Color: marron.Tallas: 16", 17", 17.5".
+		</descripcion>
+		<imagen>
+			https://equivantiendahipica.com/5283/silla-salto-lexhis-fulvia.jpg
+		</imagen>
+		<stock>
+			20
+		</stock>
+	</producto>
+	<producto>
+		<id>
+        002
+		</id>
+		<nombre>
+        Cabezada inglesa Castecus 1583
+		</nombre>
+		<categorias>
+        Cabezadas de montar
+		</categorias>
+		<precio moneda="EUR">
+        71.30
+		</precio>
+		<descripcion>
+        Cabezada inglesa Castecus 1583 fabricada en cuero completa con riendas de lona con topes y terminaciones de cuero. Frontalera recta alomada y acolchada. Muserola con cierrabocas acolchada y alomada. Hebillaje de acero inoxidable.Colores: avellana, marron, negro.Tallas: cob, full.
+		</descripcion>
+		<imagen>
+        https://zonaequus.com/media/catalog/product/cache/2/image/600x800/9df78eab33525d08d6e5fb8d27136e95/5/4/542678.jpg
+		</imagen>
+		<stock>
+        15
+		</stock>
+	</producto>
+	<producto>
+		<id>
+		</id>
+		<nombre>
+        Mantilla inglesa LeMieux ProSport Close Contact Suede ORCHID*
+		</nombre>
+		<categorias>
+        Sudaderos
+		</categorias>
+		<precio moneda="EUR">
+        93
+		</precio>
+		<descripcion>
+        Mantilla inglesa LeMieux ProSport Close Contact Suede ORCHIDpara SALTO o USO GENERAL fabricada en tejido de ante supersuave y con protección de cuero de PU para el paso de la cincha. Patillas de fijacion elasticas con velcro para fijar a las anillas de la silla. Forro de bambú súper suave para absorber y controlar el sudor debajo de la silla, muy comodo y seguro, minimizando la fricción.Color: orquidea.Talla: full.
+		</descripcion>
+		<imagen>
+        https://zonaequus.com/media/catalog/product/cache/2/image/600x800/9df78eab33525d08d6e5fb8d27136e95/5/4/544715.jpg
+		</imagen>
+		<stock>
+        50
+		</stock>
+	</producto>
+</productos>
