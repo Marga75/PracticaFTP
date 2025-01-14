@@ -47,6 +47,7 @@
 	</producto>
 	<producto>
 		<id>
+        003
 		</id>
 		<nombre>
         Mantilla inglesa LeMieux ProSport Close Contact Suede ORCHID*
@@ -65,6 +66,104 @@
 		</imagen>
 		<stock>
         50
+		</stock>
+	</producto>
+    <producto>
+		<id>
+        004
+		</id>
+		<nombre>
+        Mantilla inglesa LeMieux ProSport Close Contact Suede FIG
+		</nombre>
+		<categorias>
+        Sudaderos
+		</categorias>
+		<precio moneda="EUR">
+        84
+		</precio>
+		<descripcion>
+        Mantilla inglesa LeMieux ProSport Close Contact Suede FIG para SALTO o USO GENERAL fabricada en tejido de ante supersuave y con protección de cuero de PU para el paso de la cincha. Patillas de fijacion elasticas con velcro para fijar a las anillas de la silla. Forro de bambú súper suave para absorber y controlar el sudor debajo de la silla, muy comodo y seguro, minimizando la fricción.Color: purpura.Talla: full.
+		</descripcion>
+		<imagen>
+        https://zonaequus.com/media/catalog/product/cache/2/image/600x800/9df78eab33525d08d6e5fb8d27136e95/5/4/544741.jpg
+		</imagen>
+		<stock>
+        45
+		</stock>
+	</producto>
+    <producto>
+		<id>
+        005
+		</id>
+		<nombre>
+        Silla salto Arena Leather Cavallerire
+		</nombre>
+		<categorias>
+        Sillas de montar
+		</categorias>
+		<precio moneda="EUR">
+        425
+		</precio>
+		<descripcion>
+        Ya tenemos la Silla de salto ARENA, una de las mejores sillas relación calidad-precio.
+        Fabricada totalmente en piel.
+        Armazón flexible fabricado en fibra, la fibra se caracteriza por su durabilidad y ligereza que proporciona a la silla.
+        Con posiblidad de intercambiar el puente ( según la cruz del caballo).
+        Taco interior, para dar la seguridad que necesita el jinete/amazona.
+        Vivo hilo blanco.
+        Medida: 17'5"
+        Color: Negro
+		</descripcion>
+		<imagen>
+        https://www.sporthipic.com/4251-large_default/silla-salto-arena-leather-cavalliere.jpg
+		</imagen>
+		<stock>
+        15
+		</stock>
+	</producto>
+    <producto>
+		<id>
+        006
+		</id>
+		<nombre>
+        Cabezada montar Brillante Charol
+		</nombre>
+		<categorias>
+        Cabezadas de montar
+		</categorias>
+		<precio moneda="EUR">
+        56.95
+		</precio>
+		<descripcion>
+        Cabezada de montar fabricada en piel de calidad. Frontalera de brillantes.
+        Cierra bocas de charol para dar un toque especial a tu cabezada.
+        Con muselora.
+        Bocado NO INCLUIDO.
+        Con riendas de lona.
+        Color: Marrón
+        Tallas: COB, FULL
+		</descripcion>
+		<imagen>
+        https://www.sporthipic.com/2850-large_default/cabezada-montar-brillante-charol-riendas-lona-cav.jpg
+		</imagen>
+		<stock>
+        20
+		</stock>
+	</producto>
+    <producto>
+		<id>
+		</id>
+		<nombre>
+		</nombre>
+		<categorias>
+		</categorias>
+		<precio moneda="EUR">
+		</precio>
+		<descripcion>
+		</descripcion>
+		<imagen>
+		</imagen>
+		<stock>
 		</stock>
 	</producto>
 </productos>
