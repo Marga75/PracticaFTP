@@ -12,14 +12,37 @@ body {
     flex-wrap: wrap;
 }
 
-.titulo {
-    background-color: rebeccapurple;
+ .titulo {
+    display: grid;
+    background-image: url(imgs/Portada.webp);
+    color: white;
     width: 100%;
     height: 200px;
-    display: flex;
     justify-content: center;
     align-items: center;
-}
+    padding: 10px;
+  }
+
+  .carrito{
+    display: grid;
+    background-color: rgba(128, 0, 128, 0.823);
+    color: white;
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .carrito button {
+    justify-self: end;
+    align-self: end;
+    border-radius: 20px;
+    border: none;
+    background: rgba(37, 85, 190, 0.533);
+    color: white;
+    padding: 5px 30px;
+  }
 
 h1 {
     font-size: 4rem;
@@ -43,6 +66,9 @@ h1 {
     padding: 15px;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    margin-bottom: 0;
+    margin-top: 10px;
 }
 
 .producto:hover {
@@ -91,10 +117,21 @@ h1 {
     width: 90%;
 }
 
+.contenido_popup p{
+    text-align: left;
+}
+
 .contenido_popup img {
     max-width: 100%;
     height: auto;
     margin-bottom: 20px;
+}
+
+.añadir{
+    margin-top: 15px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #2daa07;
 }
 
 .cerrar {
