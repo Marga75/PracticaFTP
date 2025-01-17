@@ -308,20 +308,4 @@
 		10
 		</stock>
 	</producto>
-	<producto>
-		<id>
-		</id>
-		<nombre>
-		</nombre>
-		<categorias>
-		</categorias>
-		<precio moneda="EUR">
-		</precio>
-		<descripcion>
-		</descripcion>
-		<imagen>
-		</imagen>
-		<stock>
-		</stock>
-	</producto>
 </productos>

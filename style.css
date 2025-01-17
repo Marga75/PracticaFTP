@@ -12,7 +12,7 @@ body {
     flex-wrap: wrap;
 }
 
- .titulo {
+.titulo {
     display: grid;
     background-image: url(imgs/Portada.webp);
     color: white;
@@ -21,9 +21,9 @@ body {
     justify-content: center;
     align-items: center;
     padding: 10px;
-  }
+}
 
-  .carrito{
+.carrito {
     display: grid;
     background-color: rgba(128, 0, 128, 0.823);
     color: white;
@@ -31,18 +31,52 @@ body {
     height: 50px;
     justify-content: center;
     align-items: center;
-    padding: 10px;
-  }
-  
-  .carrito button {
-    justify-self: end;
-    align-self: end;
+}
+
+.carrito button {
     border-radius: 20px;
     border: none;
     background: rgba(37, 85, 190, 0.533);
     color: white;
     padding: 5px 30px;
-  }
+    cursor: pointer;
+}
+
+.carrito-popup {
+    display: none;
+    /* Ocultamos el pop-up inicialmente */
+    position: absolute;
+    top: 50px;
+    /* Ajusta para que quede justo debajo del botón */
+    left: 0;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    z-index: 1000;
+}
+
+.carrito-popup h4 {
+    margin: 0;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #ddd;
+}
+
+.carrito-popup ul {
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+}
+
+.carrito-popup ul li {
+    margin-bottom: 10px;
+}
+
+.carrito-popup ul li span {
+    font-weight: bold;
+}
 
 h1 {
     font-size: 4rem;
@@ -117,7 +151,7 @@ h1 {
     width: 90%;
 }
 
-.contenido_popup p{
+.contenido_popup p {
     text-align: left;
 }
 
@@ -127,7 +161,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.añadir{
+.añadir {
     margin-top: 15px;
     padding: 5px;
     border-radius: 10px;
