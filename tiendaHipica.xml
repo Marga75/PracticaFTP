@@ -13,10 +13,14 @@
 			290
 		</precio>
 		<descripcion>
-			Silla inglesa de SALTO Lexhis Fulvia fabricada en cuero sintetico, muy ligera de 5.2kg de peso, con releenos en baste, asiento y rodilleras extremadamente confortable, y armadura muy ligera y gran capacidad de resistencia.Color: marron.Tallas: 16", 17", 17.5".
+			Silla inglesa de SALTO Lexhis Fulvia fabricada en cuero sintetico, muy ligera de 5.2kg de peso, con releenos en baste, asiento y rodilleras extremadamente confortable, y armadura muy ligera y gran capacidad de resistencia.
+			&#xA;
+			Color: marron.
+			&#xA;
+			Tallas: 16", 17", 17.5".
 		</descripcion>
 		<imagen>
-			https://equivantiendahipica.com/5283/silla-salto-lexhis-fulvia.jpg
+			imgs/Silla-salto-Lexhis-Fluvia.webp
 		</imagen>
 		<stock>
 			20
@@ -24,133 +28,287 @@
 	</producto>
 	<producto>
 		<id>
-        002
+			002
 		</id>
 		<nombre>
-        Cabezada inglesa Castecus 1583
+			Cabezada inglesa Castecus 1583
 		</nombre>
 		<categorias>
-        Cabezadas de montar
+			Cabezadas de montar
 		</categorias>
 		<precio moneda="EUR">
-        71.30
+			71.30
 		</precio>
 		<descripcion>
-        Cabezada inglesa Castecus 1583 fabricada en cuero completa con riendas de lona con topes y terminaciones de cuero. Frontalera recta alomada y acolchada. Muserola con cierrabocas acolchada y alomada. Hebillaje de acero inoxidable.Colores: avellana, marron, negro.Tallas: cob, full.
+			Cabezada inglesa Castecus 1583 fabricada en cuero completa con riendas de lona con topes y terminaciones de cuero. Frontalera recta alomada y acolchada. Muserola con cierrabocas acolchada y alomada. Hebillaje de acero inoxidable.
+			&#xA;
+			Colores: avellana, marron, negro.
+			&#xA;
+			Tallas: cob, full.
 		</descripcion>
 		<imagen>
-        https://zonaequus.com/media/catalog/product/cache/2/image/600x800/9df78eab33525d08d6e5fb8d27136e95/5/4/542678.jpg
+			imgs/Cabezada-inglesa-Castecus-1583.webp
 		</imagen>
 		<stock>
-        15
+			15
 		</stock>
 	</producto>
 	<producto>
 		<id>
-        003
+			003
 		</id>
 		<nombre>
-        Mantilla inglesa LeMieux ProSport Close Contact Suede ORCHID*
+			Mantilla inglesa LeMieux ProSport Close Contact Suede ORCHID*
 		</nombre>
 		<categorias>
-        Sudaderos
+			Sudaderos
 		</categorias>
 		<precio moneda="EUR">
-        93
+			93
 		</precio>
 		<descripcion>
-        Mantilla inglesa LeMieux ProSport Close Contact Suede ORCHIDpara SALTO o USO GENERAL fabricada en tejido de ante supersuave y con protección de cuero de PU para el paso de la cincha. Patillas de fijacion elasticas con velcro para fijar a las anillas de la silla. Forro de bambú súper suave para absorber y controlar el sudor debajo de la silla, muy comodo y seguro, minimizando la fricción.Color: orquidea.Talla: full.
+			Mantilla inglesa LeMieux ProSport Close Contact Suede ORCHIDpara SALTO o USO GENERAL fabricada en tejido de ante supersuave y con protección de cuero de PU para el paso de la cincha. 
+			Patillas de fijacion elasticas con velcro para fijar a las anillas de la silla. Forro de bambú súper suave para absorber y controlar el sudor debajo de la silla, muy comodo y seguro, minimizando la fricción.
+			&#xA;
+			Color: orquidea.
+			&#xA;
+			Talla: full.
 		</descripcion>
 		<imagen>
-        https://m.media-amazon.com/images/I/71Igd1mXgBL._AC_UF894,1000_QL80_.jpg
+			imgs/Mantilla-inglesa-LeMieux-ProSport-Close-Contact-Suede-ORCHID.webp
 		</imagen>
 		<stock>
-        50
+			50
 		</stock>
 	</producto>
-    <producto>
+	<producto>
 		<id>
-        004
+			004
 		</id>
 		<nombre>
-        Mantilla inglesa LeMieux ProSport Close Contact Suede FIG
+			Mantilla inglesa LeMieux ProSport Close Contact Suede FIG
 		</nombre>
 		<categorias>
-        Sudaderos
+			Sudaderos
 		</categorias>
 		<precio moneda="EUR">
-        84
+			84
 		</precio>
 		<descripcion>
-        Mantilla inglesa LeMieux ProSport Close Contact Suede FIG para SALTO o USO GENERAL fabricada en tejido de ante supersuave y con protección de cuero de PU para el paso de la cincha. Patillas de fijacion elasticas con velcro para fijar a las anillas de la silla. Forro de bambú súper suave para absorber y controlar el sudor debajo de la silla, muy comodo y seguro, minimizando la fricción.Color: purpura.Talla: full.
+			Mantilla inglesa LeMieux ProSport Close Contact Suede FIG para SALTO o USO GENERAL fabricada en tejido de ante supersuave y con protección de cuero de PU para el paso de la cincha. 
+			Patillas de fijacion elasticas con velcro para fijar a las anillas de la silla. Forro de bambú súper suave para absorber y controlar el sudor debajo de la silla, muy comodo y seguro, minimizando la fricción.
+			&#xA;
+			Color: purpura.
+			&#xA;
+			Talla: full.
 		</descripcion>
 		<imagen>
-        https://zonaequus.com/media/catalog/product/cache/2/image/600x800/9df78eab33525d08d6e5fb8d27136e95/5/4/544741.jpg
+			imgs/Mantilla-inglesa-LeMieux-ProSport-Close-Contact-Suede-FIG.webp
 		</imagen>
 		<stock>
-        45
+			45
 		</stock>
 	</producto>
-    <producto>
+	<producto>
 		<id>
-        005
+			005
 		</id>
 		<nombre>
-        Silla salto Arena Leather Cavallerire
+			Silla salto Arena Leather Cavallerire
 		</nombre>
 		<categorias>
-        Sillas de montar
+			Sillas de montar
 		</categorias>
 		<precio moneda="EUR">
-        425
+			425
 		</precio>
 		<descripcion>
-        Ya tenemos la Silla de salto ARENA, una de las mejores sillas relación calidad-precio.
-        Fabricada totalmente en piel.
-        Armazón flexible fabricado en fibra, la fibra se caracteriza por su durabilidad y ligereza que proporciona a la silla.
-        Con posiblidad de intercambiar el puente ( según la cruz del caballo).
-        Taco interior, para dar la seguridad que necesita el jinete/amazona.
-        Vivo hilo blanco.
-        Medida: 17'5"
-        Color: Negro
+			Ya tenemos la Silla de salto ARENA, una de las mejores sillas relación calidad-precio.
+			&#xA;
+			Fabricada totalmente en piel.
+			&#xA;
+			Armazón flexible fabricado en fibra, la fibra se caracteriza por su durabilidad y ligereza que proporciona a la silla.
+			&#xA;
+			Con posiblidad de intercambiar el puente ( según la cruz del caballo).
+			&#xA;
+			Taco interior, para dar la seguridad que necesita el jinete/amazona.
+			&#xA;
+			Vivo hilo blanco.
+			&#xA;
+			Medida: 17'5"
+			&#xA;
+			Color: Negro
 		</descripcion>
 		<imagen>
-        https://www.sporthipic.com/4251-large_default/silla-salto-arena-leather-cavalliere.jpg
+			imgs/Silla-salto-Arena-Leather-Cavallerire.webp
 		</imagen>
 		<stock>
-        15
+			15
 		</stock>
 	</producto>
-    <producto>
+	<producto>
 		<id>
-        006
+			006
 		</id>
 		<nombre>
-        Cabezada montar Brillante Charol
+			Cabezada montar Brillante Charol
 		</nombre>
 		<categorias>
-        Cabezadas de montar
+			Cabezadas de montar
 		</categorias>
 		<precio moneda="EUR">
-        56.95
+			56.95
 		</precio>
 		<descripcion>
-        Cabezada de montar fabricada en piel de calidad. Frontalera de brillantes.
-        Cierra bocas de charol para dar un toque especial a tu cabezada.
-        Con muselora.
-        Bocado NO INCLUIDO.
-        Con riendas de lona.
-        Color: Marrón
-        Tallas: COB, FULL
+			Cabezada de montar fabricada en piel de calidad. Frontalera de brillantes.
+			&#xA;
+			Cierra bocas de charol para dar un toque especial a tu cabezada.
+			&#xA;
+			Con muselora.
+			&#xA;
+			Bocado NO INCLUIDO.
+			&#xA;
+			Con riendas de lona.
+			&#xA;
+			Color: Marrón
+			&#xA;
+			Tallas: COB, FULL
 		</descripcion>
 		<imagen>
-        https://www.sporthipic.com/2850-large_default/cabezada-montar-brillante-charol-riendas-lona-cav.jpg
+			imgs/Cabezada-montar-Brillante-Charol.webp
 		</imagen>
 		<stock>
-        20
+			20
 		</stock>
 	</producto>
-    <producto>
+	<producto>
+		<id>
+			007
+		</id>
+		<nombre>
+			Protector Tendon Goma Flex Winner
+		</nombre>
+		<categorias>
+			Protectores
+		</categorias>
+		<precio moneda="EUR">
+			24.95
+		</precio>
+		<descripcion>
+			Protector de tendón, interior fabricado en neopreno y carcasa exterior de goma.
+			&#xA;
+			Parte inferior con FLEX TECNOLOGY, para una correcta protección y no dañar al caballo.
+			&#xA;
+			Color: Negro
+			&#xA;
+			Talla: COB, FULL
+		</descripcion>
+		<imagen>
+		imgs/Protector-Tendon-Goma-Flex-Winner.webp
+		</imagen>
+		<stock>
+			20
+		</stock>
+	</producto>
+	<producto>
+		<id>
+			008
+		</id>
+		<nombre>
+			Protector Air Salto Gatusos
+		</nombre>
+		<categorias>
+			Protectores
+		</categorias>
+		<precio moneda="EUR">
+			50.95
+		</precio>
+		<descripcion>
+			Protector profesional de salto, para el tendón.
+			&#xA;
+			Los protectores Gatusos® están fabricados en EVA GUMFLY, un material revolucionario, único en el sector. Sus beneficios son múltiples:
+			&#xA;
+			-Sistema de ventilación, su innovador diseño evita el sobrecalentamiento de los tendones.
+			&#xA;
+			-Ultraligero, solo 134gr (unidad)
+			&#xA;
+			-Lavado y secado instantáneo
+			&#xA;
+			-Libre de costuras
+			&#xA;
+			-Antibacteriano
+			&#xA;
+			-Flexible
+			&#xA;
+			-Anatómico
+			&#xA;
+			-Absorbe impactos
+			&#xA;
+			-Muy duraderos
+			&#xA;
+			-Sujeción ProMax, sistema de sujeción extrema gracias a su doble cierre de velcro.
+			&#xA;
+			100% fabricado en España
+			&#xA;
+			Se comercializan por pares.
+		</descripcion>
+		<imagen>
+		imgs/Protector-Air-Salto-Gatusos.webp
+		</imagen>
+		<stock>
+			10
+		</stock>
+	</producto>
+	<producto>
+		<id>
+			009
+		</id>
+		<nombre>
+			Protector Air Salto Trasero Gatusos
+		</nombre>
+		<categorias>
+			Protectores
+		</categorias>
+		<precio moneda="EUR">
+			44.95
+		</precio>
+		<descripcion>
+			Protector profesional para la pata del caballo.
+			&#xA;
+			Los protectores Gatusos® están fabricados en EVA GUMFLY, un material revolucionario, único en el sector. Sus beneficios son múltiples:
+			&#xA;
+			-Sistema de ventilación, su innovador diseño evita el sobrecalentamiento de los tendones.
+			&#xA;
+			-Ultraligero, solo 87gr (unidad)
+			&#xA;
+			-Lavado y secado instantáneo
+			&#xA;
+			-Libre de costuras
+			&#xA;
+			-Antibacteriano
+			&#xA;
+			-Flexible
+			&#xA;
+			-Anatómico
+			&#xA;
+			-Absorbe impactos
+			&#xA;
+			-Muy duraderos
+			&#xA;
+			-Sujeción ProMax, sistema de sujeción extrema gracias a su doble cierre de velcro.
+			&#xA;
+			100% fabricado en España
+			&#xA;
+			Se comercializan por pares.
+		</descripcion>
+		<imagen>
+		imgs/Protector-Air-Salto-Trasero-Gatusos.webp
+		</imagen>
+		<stock>
+		10
+		</stock>
+	</producto>
+	<producto>
 		<id>
 		</id>
 		<nombre>
