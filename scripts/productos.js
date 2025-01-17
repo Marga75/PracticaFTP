@@ -52,7 +52,7 @@ function mostrarPopUp(nombre, imagen, descripcion) {
             <h2>${nombre}</h2>
             <img src="${imagen}" alt="${nombre}" style="width: 100%; height: auto;">
             <p>${descripcion}</p>
-            <button class="añadir">Añadir al carrito</button>
+            <button class="añadir" onclick="agregarProducto(${id}, '${nombre}', ${precio}, '${imagen}')">Añadir al carrito</button>
         `;
 }
 
