@@ -15,6 +15,10 @@ fetch("../tiendaHipica.xml")
         productos[i].getElementsByTagName("descripcion")[0].textContent;
       const imagen = productos[i].getElementsByTagName("imagen")[0].textContent;
 
+
+      //Descripción con saltos de línea
+      const descripcionConSaltos = descripcion.replace(/\n/g, "<p>")
+
       // Crear un bloque de producto
       const productoDiv = document.createElement("div");
       productoDiv.className = "producto";
@@ -27,7 +31,7 @@ fetch("../tiendaHipica.xml")
 
       //Agregar evento de clic al div de producto
       productoDiv.addEventListener("click", () => {
-        mostrarPopUp(nombre, imagen, descripcion);
+        mostrarPopUp(nombre, imagen, descripcionConSaltos);
       });
 
       // Añadir el producto al contenedor
